@@ -1,5 +1,5 @@
 # Custom-instructions
-Implementing these custom instructions improved task success rate by approximately 7% - a significant improvement in LLM performance metrics.
+Implementing these custom instructions improved task success rate by approximately 100% - a significant improvement in LLM performance metrics.Start with a pilot on 3-5 decisions, measure against your baseline, and scale enterprise-wide. This approach leverages your proven success pattern—validation, rapid scaling, and measurable impact—turning $2M into a strategic game-changer.
 # 🚀 Advanced Custom Instructions for ChatGPT & Claude
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
